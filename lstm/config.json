@@ -1,0 +1,14 @@
+{ 
+    "model_path": "",
+    "remove_duplicates": false,
+    "preprocess": false,
+    "val_size": 0.1,
+    "embedding_dim": 25,
+    "hidden_dim": 1,
+    "num_layers": 2,
+    "dropout": 0.1,
+    "batch_size": 128,
+    "learning_rate": 0.001,
+    "epochs": 1,
+    "explain_index": 0
+}
